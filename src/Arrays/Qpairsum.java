@@ -5,7 +5,7 @@ public class Qpairsum {
         int n =arr.length;
         int ans=0;
          for(int i=0;i<n;i++){
-             for(int j=i+1;j<n;j++){ //1st no
+             for(int j=i+1;j<n;j++){ //1st  no
                  if(arr[i]+arr[j]==target){ //2nd no
                      ans++;
                  }
