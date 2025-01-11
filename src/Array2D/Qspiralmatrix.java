@@ -18,7 +18,7 @@ public class Qspiralmatrix {
     int toprow=0,bottomrow=r-1,leftcol=0,rightcol=c-1;
     int totalelements=0;
     while(totalelements<r*c){
-        //toprow=leftcol to rightcol
+        //toprow=leftcol to rightcoll
         for(int j=toprow;j<=rightcol;j++){
             System.out.print(matrix[toprow][j] + " ");
             totalelements++;
