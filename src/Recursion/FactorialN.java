@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FactorialN {
     static int factorial(int n){
        if(n==0) return 1; // base case
-//        //recursive work/sub prob
+//        //recursive work/sub problem
 //        int smallans=factorial(n-1);
 //        //self workk
 //        int ans=n*smallans;
