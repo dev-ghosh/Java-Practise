@@ -7,7 +7,7 @@ public class OneToN {
             return ;
         }
         printinc(n-1); // 1,2,3....n-1,n //  recursive work/sub work
-         System.out.println(n); // self work
+         System.out.println(n); // self workk
     }
 
     public static void main(String[] args) {
