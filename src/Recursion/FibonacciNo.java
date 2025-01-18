@@ -6,7 +6,7 @@ public class FibonacciNo {
         //sub problem
         int prev=fib(n-1);
         int prevprev=fib(n-2);
-        //self workk
+        //self work
         return prev+prevprev;
     }
     public static void main(String[] args) {
