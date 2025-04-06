@@ -5,7 +5,7 @@ public class FactorialN {
        if(n==0) return 1; // base case
 //        //recursive work/sub problem
 //        int smallans=factorial(n-1);
-//        //self workkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+//        //self workkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 //        int ans=n*smallans;
 //        return ans;
         // OR
