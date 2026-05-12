@@ -6,7 +6,7 @@ public class Q2ndmethodReverse {
         ArrayList<Integer> list =new ArrayList<>();
         list.add(9);
         list.add(10);
-        list.add(3);
+        list.add(4);
         list.add(5);
         list.add(22);
         list.add(10);
